@@ -49,16 +49,20 @@
 ## Let's Connect 🔥
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter-profile">
+  <a href="https://twitter.com/thealihassan_">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/thealihassanahmad/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile">
+  <a href="https://www.instagram.com/_thealihassan/">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/your-facebook-profile">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theAliHassan&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
