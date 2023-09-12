@@ -5,7 +5,7 @@
 <h1 align="center">Ali Hassan</h1>
 
 <p align="center">
-  📞 +1(437) 246-9596 | 📧 malihassanahmad@gmail.com | 🌐 <a href="https://github.com/theAliHassan">GitHub</a> | 💼 <a href="https://www.linkedin.com/in/your-linkedin-profile">LinkedIn</a>
+   📧 malihassanahmad@gmail.com | 🌐 <a href="https://github.com/theAliHassan">GitHub</a> | 💼 <a href="https://www.linkedin.com/in/thealihassanahmad/">LinkedIn</a>
 </p>
 
 ## 🚀 About Me
@@ -39,7 +39,7 @@
 
 ## 🎓 Education
 
-- B.S. Computer Science (CGPA 3.50/4.00)
+- B.S. Computer Science 
   National University of Computer and Emerging Sciences [NUCES – FAST]
 
 ## 🏆 Achievements
