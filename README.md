@@ -45,3 +45,17 @@
 ## 🏆 Achievements
 
 - Dean’s List Award: Spring 2019, Spring 2017, Fall 2016
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAliHassan&show_icons=true&theme=dark)
+
+## 🚀 Skills
+
+- Python
+- Java
+- C++
+- Machine Learning
+- Data Analysis
+- SQL
+- TensorFlow
+- PyTorch
+
