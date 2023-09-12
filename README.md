@@ -46,16 +46,19 @@
 
 - Dean’s List Award: Spring 2019, Spring 2017, Fall 2016
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theAliHassan&show_icons=true&theme=dark)
+## Let's Connect 🔥
 
-## 🚀 Skills
-
-- Python
-- Java
-- C++
-- Machine Learning
-- Data Analysis
-- SQL
-- TensorFlow
-- PyTorch
-
+<p align="center">
+  <a href="https://twitter.com/your-twitter-profile">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-profile">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-profile">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
+  </a>
+</p>
