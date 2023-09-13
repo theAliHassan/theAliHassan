@@ -67,7 +67,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/theAliHassan/theAliHassan/blob/main/lang.png" alt="Ali Hassan" width="500" style="border-radius: 50%;" /></td>
+    <td><img src="https://github.com/theAliHassan/theAliHassan/blob/main/lang.png" alt="Ali Hassan" width="700" style="border-radius: 50%;" /></td>
     <td><img src="https://github.com/theAliHassan/theAliHassan/blob/main/downloadools.png" alt="Ali Hassan" width="500" style="border-radius: 50%;" /></td>
   </tr>
 </table>
