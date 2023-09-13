@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/theAliHassan/theAliHassan/blob/main/IMG-3567.jpg" alt="Ali Hassan" width="300" style="border-radius: 50%;" />
+  <img src="https://github.com/theAliHassan/theAliHassan/blob/main/readmepic.png" alt="Ali Hassan" width="300" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Ali Hassan</h1>
