@@ -45,9 +45,11 @@
 ## 🏆 Achievements
 
 - Dean’s List Award: Spring 2019, Spring 2017, Fall 2016
-  
+
+## 🏆 Software Development and Databases
+
 <p align="center">
-  <img src="https://github.com/theAliHassan/theAliHassan/blob/main/lang.png" alt="Ali Hassan" width="300" style="border-radius: 50%;" />
+  <img src="https://github.com/theAliHassan/theAliHassan/blob/main/lang.png" alt="Ali Hassan" width="500" style="border-radius: 50%;" />
 </p>
 
 ## Let's Connect 🔥
