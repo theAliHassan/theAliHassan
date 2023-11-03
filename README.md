@@ -19,7 +19,7 @@
 
 ### Machine Learning Developer
 
-- **CyberDiverge** | Jul 2022 – Present
+- **CyberDiverge** | Present
   - Led machine learning development efforts.
   - Integrated machine learning, data analysis, and infrastructure components.
   - Achieved 85% accuracy in sentiment classification using NLP techniques.
@@ -32,7 +32,7 @@
 
 ### Deep Learning Engineer
 
-- **EPTeck Technologies Pvt. Ltd.** | Jun 2020– Aug 2021
+- **EPTeck Technologies Pvt. Ltd.** | Jun 2018– Aug 2021
   - Developed cutting-edge Image Classification models using FAST.AI and PyTorch.
   - Engineered a robust Text Prediction Model for movie reviews.
   - Led end-to-end data analysis projects, delivering actionable insights.
