@@ -26,13 +26,13 @@
 
 ### Software Developer
 
-- **TPI – LUMS** | Sep 2021 – Jun 2022
+- **TPI – LUMS** 
   - Led a project to enhance Symbolic Execution-based Smart Contract Analysis Tools.
   - Introduced industry-standard benchmarking methods and reduced false positives.
 
 ### Deep Learning Engineer
 
-- **EPTeck Technologies Pvt. Ltd.** | Jun 2018– Aug 2021
+- **EPTeck Technologies Pvt. Ltd.** 
   - Developed cutting-edge Image Classification models using FAST.AI and PyTorch.
   - Engineered a robust Text Prediction Model for movie reviews.
   - Led end-to-end data analysis projects, delivering actionable insights.
