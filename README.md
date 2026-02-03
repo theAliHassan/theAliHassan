@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/theAliHassan/theAliHassan/blob/main/readmepic2.png" alt="Ali Hassan" width="300" style="border-radius: 50%;" />
 </p>
 
@@ -72,4 +72,4 @@
   <a href="https://www.facebook.com/your-facebook-profile">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
   </a>
-</p>
+</p> -->
