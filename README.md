@@ -1,75 +1,33 @@
-<!-- <p align="center">
-  <img src="https://github.com/theAliHassan/theAliHassan/blob/main/readmepic2.png" alt="Ali Hassan" width="300" style="border-radius: 50%;" />
-</p>
+# Muhammad Ali Hassan Ahmad
 
-<h1 align="center">Ali Hassan</h1>
+Product builder and full-stack generalist with a research record in AI/ML, security and software engineering. I build small tools end to end, test them, and write up the research behind them.
 
-<p align="center">
-   📧 malihassanahmad@gmail.com | 🌐 <a href="https://github.com/theAliHassan">GitHub</a> | 💼 <a href="https://www.linkedin.com/in/thealihassanahmad/">LinkedIn</a>
-</p>
+M.Sc. Computer Science, Lakehead University (from September 2024) · Graduate Assistant, Computer Science, Lakehead University (since September 2024) · B.Sc. Computer Science, FAST-NUCES Islamabad (Dean's List)
 
-## 🚀 About Me
+Open to full-time roles and freelance work. [ORCID](https://orcid.org/0009-0007-6580-4527) · [Google Scholar](https://scholar.google.ca/citations?hl=en&user=5MX1viAAAAAJ)
 
-- Software Developer | Machine Learning Developer | Data Scientist
-- Proficient in Python, C++, C#, Java, R, and more.
-- Skilled in databases, including MySQL, SQL Server, and Firebase.
-- Experienced with TensorFlow, PyTorch, and FAST.AI for machine learning.
+## Featured projects
 
-## 💼 Professional Experiences
+**[Utility1](https://github.com/theAliHassan/Utility1)** — [live demo](https://thealihassan.github.io/Utility1/)
+Fast, ad-free finance calculators in plain HTML, CSS and JavaScript, starting with a compound interest calculator that charts balance against contributions. The maths is split out and unit-tested against the closed-form formula, with CI on every push.
 
-### Machine Learning Developer
+**[mlb-runs-regression](https://github.com/theAliHassan/mlb-runs-regression)**
+A regression study of MLB team runs scored (1990–2018), tested on a held-out season: 2.43% error and R² of 0.96 on the original data. I rebuilt an old course project so it runs on current libraries, added tests and CI, and corrected a hypothesis-test mistake in my original analysis.
 
-- **CyberDiverge** | Present
-  - Led machine learning development efforts.
-  - Integrated machine learning, data analysis, and infrastructure components.
-  - Achieved 85% accuracy in sentiment classification using NLP techniques.
+**[Case studies](https://github.com/theAliHassan/case-studies)**
+Write-ups, with no code, of larger products I have built: what the problem was, how it was designed, and what I would change.
 
-### Software Developer
+## Research
 
-- **TPI – LUMS** 
-  - Led a project to enhance Symbolic Execution-based Smart Contract Analysis Tools.
-  - Introduced industry-standard benchmarking methods and reduced false positives.
+Technical reports, reviews, reproductions and preprints. None of this is peer-reviewed unless a venue is named. This is a selection; the full list, with co-authors, roles and BibTeX, is in the **[research hub](https://github.com/theAliHassan/research)**.
 
-### Deep Learning Engineer
+- **Enhancing Reliability of Symbolic Execution Tools for Smart Contract Analysis through Rule-Based False Positive Reduction** — arXiv preprint, 2026, first author. [arXiv](https://doi.org/10.48550/arXiv.2608.10265)
+- **Communication-Efficient Learning of Deep Networks from Decentralized Data: A Federated Learning Review and Reproduction** — technical report, 2025, sole author. [DOI](https://doi.org/10.5281/zenodo.15566208)
+- **Beyond Herd Immunity Against Strategic Attackers** — technical report and review, 2025, sole author. [DOI](https://doi.org/10.5281/zenodo.15566130)
+- **A Survey of Explainable AI Techniques for Black Box Models** — group coursework survey, 2025, team member and programmer. [DOI](https://doi.org/10.5281/zenodo.15566038)
 
-- **EPTeck Technologies Pvt. Ltd.** 
-  - Developed cutting-edge Image Classification models using FAST.AI and PyTorch.
-  - Engineered a robust Text Prediction Model for movie reviews.
-  - Led end-to-end data analysis projects, delivering actionable insights.
+[All research](https://github.com/theAliHassan/research) · [ORCID](https://orcid.org/0009-0007-6580-4527) · [Google Scholar](https://scholar.google.ca/citations?hl=en&user=5MX1viAAAAAJ) · [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Ahmad%2C%20Muhammad%20Ali%20Hassan%22)
 
-## 🎓 Education
+## Tech
 
-- B.S. Computer Science 
-  National University of Computer and Emerging Sciences [NUCES – FAST]
-
-## 🏆 Achievements
-
-- Dean’s List Award: Spring 2019, Spring 2017, Fall 2016
-
-
-
-## 🏆 Software Development and Databases
-
-<table>
-  <tr>
-    <td><img src="https://github.com/theAliHassan/theAliHassan/blob/main/langg.png" alt="Ali Hassan" width="700" style="border-radius: 50%;" /></td>
-    <td><img src="https://github.com/theAliHassan/theAliHassan/blob/main/downloadools.png" alt="Ali Hassan" width="400" style="border-radius: 50%;" /></td>
-  </tr>
-</table>
-
-## Let's Connect 🔥
-
-<p align="center">
-  <a href="https://twitter.com/thealihassan_">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/thealihassanahmad/">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_thealihassan/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/your-facebook-profile">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook" />
-  </a>
-</p> -->
+Python, pandas, statsmodels, PyTorch, TypeScript, JavaScript, Next.js and C++.
