@@ -1,4 +1,4 @@
-# Muhammad Ali Hassan Ahmad
+# Ali Hassan Ahmad
 
 Product builder and full-stack generalist with a research record in AI/ML, security and software engineering. I build small tools end to end, test them, and write up the research behind them.
 
